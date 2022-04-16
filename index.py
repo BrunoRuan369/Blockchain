@@ -55,8 +55,4 @@ for c in chain:
 	add_block(c)
 
 print(block_chain)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Stat
+
