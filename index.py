@@ -5,13 +5,13 @@ import time
 chain = [
 	{
 		"remetente": "Bruno Ruan",
-       		"destinatario": "Teste",
+       		"destinatario": "Alan Turing",
        		"mensagem": "900 Reais"
 	},
 	{
-		"remetente": "TESTE",
-	       	"destinatario": "Albert Einsteim",
-       		"mensagem": "800 Reais"
+		"remetente": "Bruno Ruan",
+	       	"destinatario": "Albert Einstein",
+       		"mensagem": "3000 Reais"
 	}
 ]
 
